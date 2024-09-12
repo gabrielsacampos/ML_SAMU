@@ -6,7 +6,7 @@ sys.path.append('src/')
 from api.models.ModelPipeline import ModelPipeline
 from api.models.CONSTANTS.FEATURES_CONSTANTS import TIMESTAMP, AGE, GENDER, TYPES, SUBTYPES
 
-model = ModelPipeline('src/api/ML/models/pipeline.pkl')
+model = ModelPipeline('src/api/ML/models/model_pipeline.pkl')
 
 st.title('SAMU - Detector de possível óbito antes ou durante o atendimento')
 

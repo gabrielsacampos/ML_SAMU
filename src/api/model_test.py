@@ -8,7 +8,7 @@ import sys
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
-model = ModelPipeline('src/api/ML/models/pipeline.pkl')
+model = ModelPipeline('src/api/ML/models/model_pipeline.pkl')
 preprocessor = Preprocessor('src/api/ML/data/samu_cases_ready.csv')
 processed_data = preprocessor.process()
 
