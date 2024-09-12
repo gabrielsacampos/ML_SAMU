@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+scikit-learn
+numpy
+pytest
+jupyter
+matplotlib
+seaborn
+imblearn
+unidecode
+streamlit
+pytest
+imbalanced-learn
