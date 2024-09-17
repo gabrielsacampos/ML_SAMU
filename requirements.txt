@@ -11,3 +11,4 @@ unidecode
 streamlit
 pytest
 imbalanced-learn
+ipykernel

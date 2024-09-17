@@ -24,7 +24,7 @@ def test_processed_data():
     for df in dataframes:
         assert isinstance(df, (pd.DataFrame, pd.Series))
 
-def test_model_pipeline():
+def test_model_pipeline_recall():
     """
     It should return a recall over 0.70
     """
