@@ -47,7 +47,3 @@ To launch the server and interface, use the following command:
 ```
 
 By default, the application will be accessible at: http://localhost:8501.
-
-
-## Notebooks:
-You can explore the open notebooks for the [EDA/Preprocessing](https://colab.research.google.com/drive/1m1SU9tJjR-4h8C8Pa5n34Ltnh-bKdVIv?usp=sharing) of the dataset, as well as the [model](https://colab.research.google.com/drive/15O3XhrYAsjmZBHoPkyH7qZGGTdYah9vD?usp=sharing) construction process.
