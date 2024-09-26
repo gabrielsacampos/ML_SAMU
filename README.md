@@ -13,6 +13,10 @@ The goal of this model is to predict the likelihood of survival or death in emer
 ```bash
    git clone https://github.com/gabrielsacampos/ML_SAMU.git
 ```
+2 - Open repository:
+```bash
+    cd ML_SAMU
+```
 2 - Create env:
 ```bash
     python3 -m env venv
